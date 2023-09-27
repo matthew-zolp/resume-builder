@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionOverrides>
+        <actionName>Tab</actionName>
+        <content>Resume_Home</content>
+        <formFactor>Large</formFactor>
+        <skipRecordTypeSelect>false</skipRecordTypeSelect>
+        <type>Flexipage</type>
+        <pageOrSobjectType>standard-home</pageOrSobjectType>
+    </actionOverrides>
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <description>Build your resume here.</description>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>true</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <label>Resume Builder</label>
+    <navType>Standard</navType>
+    <tabs>Resume_Home</tabs>
+    <tabs>standard-home</tabs>
+    <tabs>Resume__c</tabs>
+    <tabs>Experience__c</tabs>
+    <tabs>Education__c</tabs>
+    <tabs>Certifications__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Resume_Builder_UtilityBar</utilityBar>
+</CustomApplication>
