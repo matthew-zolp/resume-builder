@@ -20,7 +20,6 @@
     <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
     <label>Resume Builder</label>
     <navType>Standard</navType>
-    <tabs>Resume_Home</tabs>
     <tabs>standard-home</tabs>
     <tabs>Resume__c</tabs>
     <tabs>Experience__c</tabs>
