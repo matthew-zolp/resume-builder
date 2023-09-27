@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Tech_and_Tools__c</fullName>
+    <description>A comma separate list of the Tech and Tools that you are familiar with.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Enter comma separated.</inlineHelpText>
+    <label>Tech and Tools</label>
+    <length>131072</length>
+    <trackTrending>false</trackTrending>
+    <type>LongTextArea</type>
+    <visibleLines>3</visibleLines>
+</CustomField>
